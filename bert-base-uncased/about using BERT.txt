@@ -1,0 +1,1 @@
+You need to download config.json, pytorch_model.bin, vocab.txt on the website: https://huggingface.co/google-bert/bert-base-uncased/tree/main, and then put them here.
