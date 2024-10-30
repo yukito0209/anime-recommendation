@@ -4,7 +4,7 @@ This is one of my mini projects during the course **Analytical Programming with 
 
 The dataset used in this project is here: https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset.  
 
-In this project, we addressed 5 questions:
+In this project, we analyzed and answered **5 questions**:
 
  (1) What is the overall distribution of anime ratings on
  MyAnimeList, and what key features does it exhibit? 
