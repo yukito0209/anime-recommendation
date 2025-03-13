@@ -27,7 +27,7 @@ rated animations to users by integrating both anime
 
 The detailed content is included in the **report**, which you can find under the folder **paper**.
 
-In addition, I would like to extend my sincere gratitude to the following two collaborators, without whose invaluable assistance I could not have completed this project:
+_In addition, I would like to extend my sincere gratitude to the following two collaborators, without whose invaluable assistance I could not have completed this project:_
 
 **Rozaliya2020：** https://github.com/Rozaliya2020 \
 **sail450plus：** https://github.com/sail450plus
