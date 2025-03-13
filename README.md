@@ -63,6 +63,6 @@
 
 ### 🎎 プロジェクトパートナー - Project Partners
 
-[![Rozaliya](https://img.shields.io/badge/🌸_電脳巫女-Rozaliya2020-ff69b4?logo=github&logoColor=white&style=flat-square)](https://github.com/Rozaliya2020)
-[![Sail](https://img.shields.io/badge/🚀_銀河航海士-sail450plus-00bfff?logo=github&logoColor=white&style=flat-square)](https://github.com/sail450plus)
+[![Rozaliya](https://img.shields.io/badge/🌸_ピンク髪フェチ-Rozaliya2020-ff69b4?logo=github&logoColor=white&style=flat-square)](https://github.com/Rozaliya2020)
+[![Sail](https://img.shields.io/badge/🚀_リア充-sail450plus-00bfff?logo=github&logoColor=white&style=flat-square)](https://github.com/sail450plus)
 
