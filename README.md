@@ -1,35 +1,65 @@
-# Anime Recommendation Based on Anime Dataset 2023
+# 🎬 アニメ推薦システム - Anime Recommendation System 
+<div align="center">
+<img src="https://via.placeholder.com/800x200.png?text=✨+夢のアニメワールドへようこそ！+✨" width="75%" style="border-radius: 15px; border: 3px dashed #ff69b4;">
+</div>
 
-This is one of my mini projects during the course **Analytical Programming with Python**.  
+*📺 A Kagime Project for [Python魔法課程](https://www.cityu.edu.hk/catalogue/pg/202425/course/IS5312.htm)*  
 
-The dataset used in this project is here: https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset.  
+---
 
-In this project, we analyzed and answered **5 questions**:
+## 🧭 ナビゲーション - Navigation
+🔮 [データセット](#-project-overview) | 📜 [研究質問](#-research-questions) | 🎁 [成果物](#-project-deliverables) | 🌸 [謝辞](#-acknowledgments)
 
- (1) What is the overall distribution of anime ratings on
- MyAnimeList, and what key features does it exhibit? 
- (RQ1)  
- 
- (2) How do fundamental features of anime, such as genre,
- premiere year, and number of episodes, correlate with
- ratings? (RQ2)  
- 
- (3) How are user ratings distributed on the platform, and
- are there observable biases or tendencies in user rating
- behaviors? (RQ3)  
- 
- (4) How do user characteristics and behaviors, including
- age, gender andothers,influenceratingbehavior? (RQ4)  
- 
- (5) Howcanweeffectively recommendhigh-quality, highly
-rated animations to users by integrating both anime
- and user features? (RQ5)  
+---
 
-The detailed content is included in the **report**, which you can find under the folder **paper**.
+## 🔍 プロジェクト概要 - Project Overview
 
-_In addition, I would like to extend my sincere gratitude to the following two collaborators, without whose invaluable assistance I could not have completed this project:_
+<div align="center" style="">
 
-**Rozaliya2020：** https://github.com/Rozaliya2020 \
-**sail450plus：** https://github.com/sail450plus
+[![Kagge娘](https://img.shields.io/badge/🗂_データセット-MyAnimeList_2023-20BEFF?logo=kaggle&style=for-the-badge&logoColor=white)](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset)  [![目標](https://img.shields.io/badge/🎯_目標-推薦エンジン%20×%20ユーザー分析-ff69b4?style=for-the-badge&logo=heart&logoColor=white)]()
 
-In the end, if you like it, plz star this repo!
+</div>
+
+---
+
+## 📝 研究質問 - Research Questions
+
+### 🌸 5大究極の問い
+```markdown
+1. 🎴 Q1. アニメの星の分布はどうなってるの？  
+   _"What is the overall distribution..."_
+
+2. 🎭 Q2. ジャンルと評価の秘密の関係...？  
+   _"How do genre, premiere year..."_
+
+3. 👾 Q3. ユーザーの投票にバイアスはある？  
+   _"How are user ratings distributed..."_
+
+4. 🧬 Q4. 年齢・性別で評価変わる？  
+   _"How do user demographics..."_
+
+5. 🚀 Q5. 最強の推薦システムを作りたい！  
+   _"How to effectively recommend..."_
+
+```
+
+---
+
+## 📦 成果物 - Deliverables
+
+### 🎁 プロジェクトおたから箱
+[📜 完全レポート](/paper)  
+`データ可視化` · `統計魔法` · `アルゴリズム解説`
+
+[💻 源式コード](/src)  
+`Python魔導書` · `Jupyter魔法帳` · `Pandas/Scikit-learn秘術`
+
+---
+
+## 🤝 特別感謝 - Special Thanks
+
+### 🎎 プロジェクトパートナー - Project Partners
+
+[![Rozaliya](https://img.shields.io/badge/🌸_電脳巫女-Rozaliya2020-ff69b4?logo=github&logoColor=white&style=flat-square)](https://github.com/Rozaliya2020)
+[![Sail](https://img.shields.io/badge/🚀_銀河航海士-sail450plus-00bfff?logo=github&logoColor=white&style=flat-square)](https://github.com/sail450plus)
+
