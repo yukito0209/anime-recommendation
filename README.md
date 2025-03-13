@@ -1,6 +1,11 @@
 # 🎬 アニメ推薦システム - Anime Recommendation System 
 <div align="center">
-<img src="https://via.placeholder.com/800x200.png?text=✨+夢のアニメワールドへようこそ！+✨" width="75%" style="border-radius: 15px; border: 3px dashed #ff69b4;">
+
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸  
+⚡️ **アニメ推薦システム 起動！** ⚡️  
+✨ _Welcome to Anime Data Wonderland_ ✨  
+🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸🌸  
+
 </div>
 
 *📺 A Kagime Project for [Python魔法課程](https://www.cityu.edu.hk/catalogue/pg/202425/course/IS5312.htm)*  
@@ -25,23 +30,21 @@
 ## 📝 研究質問 - Research Questions
 
 ### 🌸 5大究極の問い
-```markdown
-1. 🎴 Q1. アニメの星の分布はどうなってるの？  
-   _"What is the overall distribution..."_
 
-2. 🎭 Q2. ジャンルと評価の秘密の関係...？  
-   _"How do genre, premiere year..."_
+1. 🎴 **Q1. アニメの星の分布はどうなってるの？**  
+   *"What is the overall distribution..."*
 
-3. 👾 Q3. ユーザーの投票にバイアスはある？  
-   _"How are user ratings distributed..."_
+2. 🎭 **Q2. ジャンルと評価の秘密の関係...？**  
+   *"How do genre, premiere year..."*
 
-4. 🧬 Q4. 年齢・性別で評価変わる？  
-   _"How do user demographics..."_
+3. 👾 **Q3. ユーザーの投票にバイアスはある？**  
+   *"How are user ratings distributed..."*
 
-5. 🚀 Q5. 最強の推薦システムを作りたい！  
-   _"How to effectively recommend..."_
+4. 🧬 **Q4. 年齢・性別で評価変わる？**  
+   *"How do user demographics..."*
 
-```
+5. 🚀 **Q5. 最強の推薦システムを作りたい！**  
+   *"How to effectively recommend..."*
 
 ---
 
